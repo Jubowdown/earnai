@@ -1,0 +1,2 @@
+# earnai
+Minimalist chat application
